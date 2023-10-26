@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "properties.setProperty(\"hibernate.hbm2ddl.auto\",",
+  "type": "java.lang.String",
+  "description": "A description for 'properties.setProperty(\"hibernate.hbm2ddl.auto\",'"
+}]}
